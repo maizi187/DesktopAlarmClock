@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="Bn9ojuPkiWnIx1uKJWP7">
-    <mxGraphModel>
+    <mxGraphModel dx="1371" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6tphEUK9y6-EpQD94MY3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tphEUK9y6-EpQD94MY3-1" target="6tphEUK9y6-EpQD94MY3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;分析信号的特&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;性&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;&lt;b&gt;提取关键信息&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tphEUK9y6-EpQD94MY3-2" target="6tphEUK9y6-EpQD94MY3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;变分模态分解+&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;有更好的抗噪性能和更高的分解&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;精度，能够有效解决模态混叠和端点效应等问题，能够更准确地分析信号的特&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;性并提取关键信息。&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tphEUK9y6-EpQD94MY3-7" target="6tphEUK9y6-EpQD94MY3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tphEUK9y6-EpQD94MY3-7" target="6tphEUK9y6-EpQD94MY3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;北方苍鹰优化算法+&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="525" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;故障识别&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-11" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;复杂工况下的识别&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;准确率很高，&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;准确率和泛化能力&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="525" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tphEUK9y6-EpQD94MY3-13" target="6tphEUK9y6-EpQD94MY3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;来定位故障位置&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tphEUK9y6-EpQD94MY3-14" target="6tphEUK9y6-EpQD94MY3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;小波变换+&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tphEUK9y6-EpQD94MY3-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;的特征提取，精准确定故障行波波头的到达时间。&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="250" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
